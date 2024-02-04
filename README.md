@@ -1,6 +1,3 @@
-# QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -14,29 +11,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Final Project](./screenshots/screenshot.png)
+![Solution](./screenshots/solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/Blip-Loban/QR-code-component-solution)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+   
+   I started with Basic HTML then tried to find a way to center the content then worked my way up to add the styles.
 
 ### Built with
 
@@ -46,14 +35,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-- How to center an item and add shawod
+- How to center an item and add shadow
 - Adding colors
-- Margin and padding in tailwind css
+- Margin and padding in tailwind CSS
 
 
 ### Continued development
 
-I would like to learn React and Next JS for my future projects.
+I would like to learn React and Next JS for future.
 
 ### Useful resources
 
@@ -63,8 +52,8 @@ I would like to learn React and Next JS for my future projects.
 ## Author
 
 - Website - [Mutasim Fuad Sarker](https://www.facebook.com/loban.sharker)
-- Frontend Mentor - [@@Blip-Loban](https://www.frontendmentor.io/profile/Blip-Loban)
-- Twitter - [@@MutasimFuadSRK](https://twitter.com/MutasimFuadSRK)
-
+- Frontend Mentor - [@Blip-Loban](https://www.frontendmentor.io/profile/Blip-Loban)
+- Twitter - [@MutasimFuadSRK](https://twitter.com/MutasimFuadSRK)
+- <a href="mailto:mutasimfuadsarker@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
